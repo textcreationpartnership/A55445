@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes lamentation, or, The whore of Babylons overthrow being an exact compendium of his Jesuitick retinues, promises, and supplications to delude the multitude, and scape the flames on the 17th instant &amp;c. : as also, Queen Elizabeths congratulation to the city of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55445</idno>
+            <idno type="STC">Wing P2934</idno>
+            <idno type="STC">ESTC R8724</idno>
+            <idno type="EEBO-CITATION">13736917</idno>
+            <idno type="OCLC">ocm 13736917</idno>
+            <idno type="VID">101639</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101639)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes lamentation, or, The whore of Babylons overthrow being an exact compendium of his Jesuitick retinues, promises, and supplications to delude the multitude, and scape the flames on the 17th instant &amp;c. : as also, Queen Elizabeths congratulation to the city of London.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An anti-Catholic satire.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101639:1" rendition="simple:additions"/>
+            <head>THE Popes Lamentation. Or the Whore of <hi>Babylons</hi> overthrow,</head>
+            <argument>
+               <p>Being an exact Compendium of his Jeſuitick Retinues, promiſes anb Supplications to delude the Multitude, and ſcape the Flames on the 17th inſtant, &amp;c. As alſo, Queen <hi>Elizabeths</hi> Congratulation to the City of <hi>London.</hi>
+               </p>
+            </argument>
+            <p>AFter the Image of the Beaſt of <hi>Rome,</hi> dreſt in Formallibus, with his Triple Crown, and Croſiers ſtuff, with his attendants of <hi>Car<g ref="char:EOLhyphen"/>dinals, Monks, Prieſts,</hi> and <hi>Friers,</hi> who with an innumerable; Gaurd, ſolemnly waited on his Hollineſs, to the Fire prepared for him-the Image being ſet by the ſide of the Bon-fire, in his Chair: confront<g ref="char:EOLhyphen"/>ing that of the good and Gracious Queen <hi>Elizabeth,</hi> who was placed as a Spectator of the Action, being done in the Honour and Memory of her Birth day, who cleared this happy Iſland of all the Romiſh ſu<g ref="char:EOLhyphen"/>perſtition, and unyoaked the People for ever there from, and the Image of the Devil placed on the Right Hand, and another of a Grand and reverend Jeſuit, on the Left Hand, of his Hollineſs; to ſupport and comfort him: a great ſilence being made, his Hollineſs before his burn<g ref="char:EOLhyphen"/>ing made this ſhort Speech, to the People.</p>
+            <div type="speech">
+               <head>THE POPES SPEECH.</head>
+               <p>You damn'd and Wicked Hereticks, are you not aſhamed of this your New and upſtart invention of Burning me the <hi>Pope,</hi> in Effiges with all this due, clutter and ſolemnity at firſt brought in by the Rage and Malice of a Wicked Phanatical Phyſitian, to whom I Got my Friend and Crony, Mr. Devil, to give him Water enough for his Fire, and to drown him ſince. But to leave the Invention, methinks 'tis but ſilly foppery, thus to ſhew your dear Soares for my deſtruction: by Congre<g ref="char:EOLunhyphen"/>gateing your ſelves together ſolemnly, to behold the ſport of Raſcally Boys, and <hi>London</hi> Prentices, with Butchers, and Tinkers, and ſuch kind of Scouring, as if they were at one of your Bear baitings; I ſay that this ſhould draw you Ladies and Gentlewomen, at this time of the Night, from your homes, into the Belconies, and Windows, indangering your healths at this time of the Year, and that all this Concourſe of People ſhould thus Run together, to behold the burning of a poor Image, made of Wax, of me a <hi>Pope,</hi> that troubles you not, that am not your Neigh<g ref="char:EOLhyphen"/>bour, but dwell at a great diſtance from you, and hardly ſo much as
+<pb n="2" facs="tcp:101639:2" rendition="simple:additions"/>think of you, unleſs when put in mind, by this good Man, on my Left Hand, Father Jeſuit; who would recall you from the Errors. Conſi<g ref="char:EOLhyphen"/>der with your ſelves, is it not a diſgrace to Temporal Princes, that you ſhould thus Publickly burn my Effiges, who am one as well as a Spiritu<g ref="char:EOLhyphen"/>al Lord, and Father, and have a Large teritory left me, called the Patry<g ref="char:EOLhyphen"/>mony of St. <hi>Peter,</hi> than many Temporal Princes, that you durſt not ſerve thus: you begin to move my anger, to ſee your folly, and in <hi>Rome,</hi> ſuffer nothing by it; leave off for ſhame this Pajent, and maigame, and I will promiſe you, if you will ſpare me from the Fire, and theſe others the Jeſuits and Devil, which are like to ſuffer with me, Pardons and In<g ref="char:EOLhyphen"/>dulgences, not only for all your ſins paſt, and what you now commit, but for all ſins to come, be they of what nature or kind they will, ſo that you may have free Liberty of ſinning, without remorſe, as you ſee many of my Sons, and Daughters; dayly do, I having given power to this my Son the Jeſuit, of pardoning them for all their Crimes, and this alſo will I grant for you, if you will return to me, and leave of this pernici<g ref="char:EOLhyphen"/>ous Cuſtom of Burning a <hi>Pope.</hi> This being ſaid, the Jeſuit gravely look<g ref="char:EOLhyphen"/>ing about, ſpake thus.</p>
+            </div>
+            <div type="speech">
+               <head>THE JESUITS SPEECH.</head>
+               <p>Well good People, though you have brought us here to be burnt together faſt Friend, and faithfull Counſellors, and that you Burn us in Effiges, I aſſure you, I yet hope to ſee ſome of you to Fry in Flames here, as well as hereafter, for this your Wicked Fact, and abominable diſgrace, you ſhow your good wills, as how kind you have been to us, we ſhall alſo Remember. Do not you think that all our Plots, and contrivances are at an End. You have diſcovered ſome of them, which indeed makes me a little admire, and made me begin to ſuſpect, that Brother Devil had been falſe to us, and had betraied our Hell-hatch'd deſigns, but he has aſſured me by many Helliſh aſſeverations, as ſtrong as thoſe of our fra<g ref="char:EOLhyphen"/>ternity, that he is innocent of any ſuch thing. But be it as it will, you have taken of ſome of our Heads, and now you burn me, as the Chief Fa<g ref="char:EOLhyphen"/>ther of the order, reſiding at <hi>Rome,</hi> but now we are like <hi>Hydras</hi> Heads, the more you cut off, the more Spring up in their Places, we are indifa<g ref="char:EOLhyphen"/>tigable, and never to be tyred out, we care little what you can do againſt us, ſo we can have but a creeping hole in <hi>England!</hi> O happy <hi>England,</hi> that once yielded us ſuch incomes: but we will ſtill undermine you, till we have entered your Fortreſs, and brought you to the Old paſs, which if ever we compaſs, wee have prepared Iron Yoaks for your Necks, and Bolts and Chains for your Armes, and feet: we'l Fetter you, and Re<g ref="char:EOLhyphen"/>member this Bon-fire, with the Frying of your Fleſh, and Crackling of your Bones I now ſpeak plain to you, and you think I am no Jeſuit, becauſe I ſeem to confeſs, miſtake me not, I am Inocent as the beſt, and as the Child unborne, and if need be, can ſtill affirme it with as much
+<pb n="3" facs="tcp:101639:2"/>confidence, as thoſe who have died before me, for the things were as plain, as the Noſe in your Faces, yet their confidence and great Impu<g ref="char:EOLhyphen"/>dence has wrought ſo on the minds of many, that they believe them In<g ref="char:EOLhyphen"/>nocent. After the ſame example, I ſay take notice all you Spectators, that I am Innocent, and no Plotter, or contriver of any miſchief to you, but good to our ſelves, for it is no hurt to you to be Burnt, Murthered or Hanged, it is for a good cauſe, and for the Salvation of your Souls. What if I did ſay but now, that we did Plot, and contrive, I now deny that I ever did ſay ſo, you are all miſtaken, I aver it, and Swear to the contra<g ref="char:EOLhyphen"/>ry, tho I muſt now be Burnt for it: I know my confidence will weigh much with ſome, all are not ſuch foolls, as to believe their Senſes, before a Jeſuits dying words, or the Oaths and Teſtimonies of ſeveral People, be<g ref="char:EOLhyphen"/>fore our Imprications, and aſſeverations. Therefore good People take notice once more, tho I am one of the greateſt boutfects in the World, and Incendaries, one that loves to ſee Kingdoms together by the Ears, Fighting for Religion, whilſt we laugh, ſhare the Spoil, and have no Re<g ref="char:EOLhyphen"/>ligion, I ſay, tho I Commit murthers and Maſſacres, and all ſorts of Villanies, and contrive Plot, upon Plot, and all ſorts of Plots, I ſay, and will ſtill ſay, that you will, that I and all of us, are ſtill Innocent. The Jeſuits having ended, the Devil ſhewing his Fangs, with a ſtrange plea<g ref="char:EOLhyphen"/>ſing Grin, began thus.</p>
+            </div>
+            <div type="speech">
+               <head>THE DEVILS SPEECH.</head>
+               <p>My good People a great many of you I know, will fall to my ſhare, I am very well pleaſed, that you will make me a Martier, with my dear Son the <hi>Pope,</hi> Jeſuits; I tell you it is natural for me to be in Flames, and therefore you do but drown the Ele, and put me into my one Element for I can ſleep as well in Flames, as you in cleen ſheets. I ſhall not there<g ref="char:EOLhyphen"/>fore make to you any Speeches, as at my Funeral, nor ſhall I go about to perſwade you of my Innocency, but I will like an honeſt Devil (you know the Proverb, give him his due, and ſometimes the Devil ſpeaks Truth) I confeſs to you, that I am Gulty of all the miſchief that is com<g ref="char:EOLhyphen"/>mited in this World, but ſince I have not power of my ſelf, to do any thing without the uſe of the Inſtrument Man, who cannot be hurt but by himſelf, I have made uſe of the <hi>Pope,</hi> and the Jeſuits, as my Sword: and my Poyſon, with them I have wrought you ſufficient miſchief; and to tell you the plain truth of it, do ſtill intend to do the ſame, look to your ſelves as well as you can, therefore I will turn my ſelf from you, and ſpeak a word or two of comfort, to my fellow ſufferers, and ſo conclude, tho' I look younger then you, and that I have no beard, for you muſt know the Infernal Flames ſing'd it off continually, yet you know I am Older than you, and Old enough to be your Father, therefore my dear Sons, both <hi>Pope</hi> and Jeſuits, you I have long councelled you, and by my Coun<g ref="char:EOLhyphen"/>ſel you have chiefly maintained the greatneſs in this World; ever ſince
+<pb n="4" facs="tcp:101639:3" rendition="simple:additions"/>that Ambitious <hi>Pope,</hi> who firſt of all laied claim to that Spiritual Juriſdiction over all o<g ref="char:EOLhyphen"/>ther Biſhops, and would exerciſe dominion and Lord-ſhip over all the reſt. did not I make the Emperour of the Eaſt, who was a murtherer and uſerper, to place St. <hi>Peters</hi> Chair, for this <hi>Pope,</hi> to ſit in, and have not I been ever ſince faithful to your Conclave, and paſ<g ref="char:EOLhyphen"/>ſed the Chair that is ſet amply for another Body, but poſſeſſed ſtill by me, and have not I ever ſince Inſpired moſt of the predeceſſors, as I could Name them to you, but that I love brevity: as Ill crained as others: and among the reſt, <hi>Pope Joane,</hi> have not I made ſome of them Conjurers, Blaſphemers, open Buggerers, and Calamites; and moſt rageing and Bloody perſecutors: but I will not innumerare all my Services, both to you my Son the <hi>Pope,</hi> and alſo to my dear Younger Son the Jeſuit: begotten from a Lame Pocky Souldi<g ref="char:EOLhyphen"/>er; Ignatious, have not I made you greater, and of more power and Riches; than ever the Templers were: and have not I called a Privy Council in Hell, of all the Cunning and Sophiſticateing Spirits there, to extract a Quinteſſence, of Subtil Principles, and Morrals, and for you to walke by, and to maintain; and have I not brought you into all the Courts of Chriſtendom: and do not you manage the Affairs of the whole Chriſtian World. By my means and contrivance; let this then comfort you in this day of Tribulation, that I will not forſake you at the laſt Hour: but am willing to enter the Flames with you here, and to accompany you in thoſe hereafter in my Kingdom, therefore you need not bee af<g ref="char:EOLhyphen"/>fraid of being Burnt, ſince 'tis the Element I live in, and which you muſt alſo Live in, and you know we have Sworn never to forſake one another, but to Live and Die together, therefore theſe wiſe People have put us deſervedly together: knowing our Friend-ſhip, intimacy, and confederacy; grieve not therefore at this ſuffering, for it is but a Type and ſhadow of what is to come, and what you ought to expect, <hi>Conſideratis, Conſiderandis.</hi> With this the People gave a great ſhout, which being ſilenced Queen <hi>Elzabeth</hi> made this ſhort Speech, with great gravity.</p>
+            </div>
+            <div type="speech">
+               <head>QUEEN ELIZABETHS SPEECH.</head>
+               <p>Good Pople all, it rejoyces my Soul, and Heart, that ſtill beholds your Pious love to my Memory, to ſee this day, that the Image of the Beaſt, and the rageing Monſter, the <hi>Jeſuit</hi> may be yet ſo freely burnt in theſe Streets, notwithſtanding their endeavovrs of in kind<g ref="char:EOLhyphen"/>ling other Fires of Fleſh and Blood, in this place, notwithſtanding the pretences of the <hi>Pope,</hi> and the aſſerted Innocency of the <hi>Jeſuit,</hi> you do not amiſs in making this Bon-fire, and burning their Effiges, for thereby you would ſhew them the affection, to the reformed Religion, and your diſſaffection to all the Traſh, Trumpery, and Idolatry, and Blaſphemy, of the Romiſh; that they might thereby have there hopes daſh'd, from attempting to bring in their Religion, into a place ſo generally diſſaffected to them, neither can any tem<g ref="char:EOLhyphen"/>poral Prince, take acceptions at a thing done by no other Authority, ſhall the joynt affecti<g ref="char:EOLhyphen"/>on of the Common People, who are ſometimes <hi>Vox Die,</hi> and are not to be reſtrained in ſuch Caſes: you medle not with his Temporallity, but his Spiritual uſurpation and Tyran<g ref="char:EOLhyphen"/>ny over Souls, beſides I conſider the many Provocations of late, more than uſual, to exite, and exaſperate the minds of People againſt them, by their moſt horrid imaginations, and contrivances. I know you ſtill remember the many Treacherous ways theſe guilty perſons had, to take away my Life, for which ſome few then ſuffered: then the Horrid and Devilliſh Powder Plot, to blow bp my ſucceſſor, next the late bloody Wars, and the deſſolution of the Glorſous Marrier King <hi>Charles,</hi> effected by their Treachery and deſignes: and now laſtly the moſt horrid Plot, againſt the Life of the great Monarch, and merciful Prince; that now Reigns. over you, nod yet more lately, notwithſtanding their ſuffering for their ſo late Crimes, their Hell hatched and neatly contrived Conſpiracy, to throw all their Vil<g ref="char:EOLhyphen"/>lany upon the reformed, both of the Church of <hi>England,</hi> and the <hi>Breſbyterians,</hi> ſo Wicked as before was never the like Read, or heard of, to be contrived. I ſay all this being conſi<g ref="char:EOLhyphen"/>dered, you have juſt cauſe to ſhew the diſſaffection to their evil ways, and they ſuffer alſo very juſtly, for their Wicked Crimes, in Effiges.</p>
+               <p>VVith this the People giving a great ſhout, the Images were thrown into the Fire, with general joy, and exclaimation.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
